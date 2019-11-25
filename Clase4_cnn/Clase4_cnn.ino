@@ -4,16 +4,15 @@
 char respuesta;
 void setup() {
   Serial.begin(9600);
-  respuesta = cnn(3, 3, 120, 5);
+  respuesta = cnn(3, 120, 5);
 }
 
 void loop() {
 }
 
-char cnn(int k, int tags, int filas, int columnas) {
+char cnn(int tags, int filas, int columnas) {
   float sum1, sum2, sum3, sumatoria = 0, distancia_menor = 3000, distancia;
   int cont1 = 0, cont2 = 0, cont3 = 0, drain = 0, source = 0, tag;
-  float matriz_s[source][columnas];
   /*
      centroides -> promedio
                     promedio por columna y por etiqueta
@@ -95,18 +94,29 @@ char cnn(int k, int tags, int filas, int columnas) {
       //      Serial.println("D");
       drain++;
     } else {
+      float matriz_s[source + tags][columnas];
       //      Serial.print(String(i) + ": ");
       //      Serial.println("S");
+        if (source == 0) {
+          for (int f = 0; f < tags; f++) {
+            for (int d = 0; d < columnas; d++) {
+              matriz_s[f][d] = centroid[f][d];
+              Serial.print(matriz_s[f][d]);
+              Serial.print(" ");
+            }
+            Serial.println(" ");
+          }
+        }
       for (int c = 0; c < columnas; c++) {
-        matriz_s[source][c] = matriz[i][c];
-        Serial.print(matriz_s[source][c]);
+        matriz_s[source + tags][c] = matriz[i][c];
+        Serial.print(matriz_s[source + tags][c]);
         Serial.print(" ");
       }
       Serial.println(" ");
       source++;
     }
   }
-
+  
   Serial.println(" ");
   Serial.println("----------RESULTADOS----------");
   Serial.print("Datos en DRAIN: ");
