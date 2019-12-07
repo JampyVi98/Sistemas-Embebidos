@@ -45,17 +45,17 @@ char cnn(int tags, int filas, int columnas) {
     sum2 = 0;
     sum3 = 0;
     for (int i = 0; i < filas; i++) {
-      if (matriz[i][4] == 1) {
+      if (matriz[i][columnas - 1] == 1) {
         cont1++;
         sum1 = sum1 + matriz[i][j];
         centroid[0][j] = sum1 / cont1;
       }
-      if (matriz[i][4] == 2) {
+      if (matriz[i][columnas - 1] == 2) {
         cont2++;
         sum2 = sum2 + matriz[i][j];
         centroid[1][j] = sum2 / cont2;
       }
-      if (matriz[i][4] == 3) {
+      if (matriz[i][columnas - 1] == 3) {
         cont3++;
         sum3 = sum3 + matriz[i][j];
         centroid[2][j] = sum3 / cont3;
