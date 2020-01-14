@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Introducci\363n}{}% 1
+\BOOKMARK [1][-]{section.2}{Marco Te\363rico}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Node MCU}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Sensor de PH}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Sensor de temperatura de agua}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Sensor TDS conductividad}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Sensor de Turbidez \(NTU\)}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Desarrollo}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Calibraci\363n de Sensor de PH}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Programa utilizado}{subsection.3.1}% 10
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Resultados obtenidos}{subsection.3.1}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Calibraci\363n de Sensor de temperatura}{section.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Programa utilizado}{subsection.3.2}% 13
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Resultados obtenidos}{subsection.3.2}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Calibraci\363n de Sensor TDS}{section.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Programa utilizado}{subsection.3.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Resultados obtenidos}{subsection.3.3}% 17
+\BOOKMARK [2][-]{subsection.3.4}{Calibraci\363n de Sensor NTU}{section.3}% 18
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Programa utilizado}{subsection.3.4}% 19
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Resultados obtenidos}{subsection.3.4}% 20
+\BOOKMARK [2][-]{subsection.3.5}{Dise\361o de circuitos }{section.3}% 21
+\BOOKMARK [1][-]{section.4}{Conclusiones y Recomendaciones}{}% 22
+\BOOKMARK [1][-]{section.5}{Anexos }{}% 23

@@ -1,0 +1,906 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.12)  12 DEC 2019 10:44
+entering extended mode
+**./examen.tex
+(examen.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) ("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+"
+Package: babel 2018/09/26 3.24 The Babel package
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2018/09/26 3.24 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\spani
+sh.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/09/26 3.24 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.de
+f")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen104
+))
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+) ("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks18
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks19
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.s
+ty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.st
+y"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.s
+ty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+\c@tracingmulticols=\count103
+\mult@box=\box28
+\multicol@leftmargin=\dimen115
+\c@unbalance=\count104
+\c@collectmore=\count105
+\doublecol@number=\count106
+\multicoltolerance=\count107
+\multicolpretolerance=\count108
+\full@width=\dimen116
+\page@free=\dimen117
+\premulticols=\dimen118
+\postmulticols=\dimen119
+\multicolsep=\skip46
+\multicolbaselineskip=\skip47
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen120
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count109
+\c@finalcolumnbadness=\count110
+\last@try=\dimen121
+\multicolovershoot=\dimen122
+\multicolundershoot=\dimen123
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count111
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titling\titling.sty
+"
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip48
+\thanksmargin=\skip49
+\droptitle=\skip50
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.s
+ty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box54
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen124
+\ttl@minus=\dimen125
+\ttl@toksa=\toks23
+\titlewidth=\dimen126
+\titlewidthlast=\dimen127
+\titlewidthfirst=\dimen128
+) ("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen129
+\ar@mcellbox=\box55
+\extrarowheight=\dimen130
+\NC@list=\toks24
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box56
+) ("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\afterpage.sty
+"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks25
+\AP@partial=\box57
+\AP@footins=\box58
+) ("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count112
+\float@exts=\toks26
+\float@box=\box59
+\@float@everytoks=\toks27
+\@floatcapt=\box60
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.s
+ty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefine
+keys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex
+.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcm
+ds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.st
+y"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
+"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count113
+\LTcapwidth=\dimen131
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@cols=\count114
+\LT@rows=\count115
+\c@LT@tables=\count116
+\c@LT@chunks=\count117
+\LT@p@ftn=\toks28
+) ("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.
+cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epigraph\epigraph.s
+ty"
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip59
+\afterepigraphskip=\skip60
+\epigraphwidth=\skip61
+\epigraphrule=\skip62
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigure
+.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip63
+\subfigcapskip=\skip64
+\subfigcaptopadj=\dimen132
+\subfigbottomskip=\skip65
+\subfigcapmargin=\dimen133
+\subfiglabelskip=\skip66
+\c@subfigure=\count118
+\c@lofdepth=\count119
+\c@subtable=\count120
+\c@lotdepth=\count121
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigure
+.cfg")
+\subfig@top=\skip67
+\subfig@bottom=\skip68
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\anyfontsize\anyfont
+size.sty"
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.s
+ty"
+\lst@mode=\count122
+\lst@gtempboxa=\box65
+\lst@token=\toks29
+\lst@length=\count123
+\lst@currlwidth=\dimen134
+\lst@column=\count124
+\lst@pos=\count125
+\lst@lostspace=\dimen135
+\lst@width=\dimen136
+\lst@newlines=\count126
+\lst@lineno=\count127
+\lst@maxwidth=\dimen137
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.st
+y"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count128
+\lst@skipnumbers=\count129
+\lst@framebox=\box66
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.c
+fg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.s
+ty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.s
+ty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.s
+ty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count130
+\Gm@cntv=\count131
+\c@Gm@tempcnt=\count132
+\Gm@bindingoffset=\dimen138
+\Gm@wd@mp=\dimen139
+\Gm@odd@mp=\dimen140
+\Gm@even@mp=\dimen141
+\Gm@layoutwidth=\dimen142
+\Gm@layoutheight=\dimen143
+\Gm@layouthoffset=\dimen144
+\Gm@layoutvoffset=\dimen145
+\Gm@dimlist=\toks30
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.c
+fg"))
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.s
+ty"
+Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-h
+yperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-g
+eneric.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \AP@enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.st
+y"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen146
+\Hy@linkcounter=\count133
+\Hy@pagecounter=\count134
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+"
+File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count135
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.c
+fg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4409.
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4788.
+\c@Hy@tempcnt=\count136
+ ("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5141.
+\XeTeXLinkMargin=\dimen147
+\Fld@menulength=\count137
+\Field@Width=\dimen148
+\Fld@charsize=\dimen149
+Package hyperref Info: Hyper figures OFF on input line 6396.
+Package hyperref Info: Link nesting OFF on input line 6401.
+Package hyperref Info: Hyper index ON on input line 6404.
+Package hyperref Info: backreferencing OFF on input line 6411.
+Package hyperref Info: Link coloring ON on input line 6414.
+Package hyperref Info: Link coloring with OCG OFF on input line 6421.
+Package hyperref Info: PDF/A mode OFF on input line 6426.
+LaTeX Info: Redefining \ref on input line 6466.
+LaTeX Info: Redefining \pageref on input line 6470.
+\Hy@abspage=\count138
+\c@Item=\count139
+\c@Hfootnote=\count140
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.de
+f"
+File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
+\Fld@listcount=\count141
+\c@bookmark@seq@number=\count142
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilec
+heck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip69
+) (arduinoLanguage.tex
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)) (examen.aux
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+)
+\openout1 = `examen.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
+i"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count143
+\scratchdimen=\dimen150
+\scratchbox=\box67
+\nofMPsegments=\count144
+\nofMParguments=\count145
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count146
+\MPscratchDim=\dimen151
+\MPnumerator=\count147
+\makeMPintoPDFobject=\count148
+\everyMPtoPDFconversion=\toks32
+)
+\c@lstlisting=\count149
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box68
+Package hyperref Info: Link coloring ON on input line 33.
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.st
+y"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitle
+string.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count150
+)
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
+ (examen.out) (examen.out)
+\@outlinefile=\write3
+\openout3 = `examen.out'.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
+
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: Citation `zhang2011study' on page 1 undefined on input line 42.
+
+
+LaTeX Warning: Citation `guo2011integrated' on page 1 undefined on input line 4
+3.
+
+
+LaTeX Warning: Citation `jiang2011application' on page 1 undefined on input lin
+e 44.
+
+
+LaTeX Warning: Citation `jingmeng2011research' on page 1 undefined on input lin
+e 46.
+
+
+LaTeX Warning: Citation `qin2011impact' on page 1 undefined on input line 47.
+
+
+LaTeX Warning: Citation `randhawa2016multi' on page 1 undefined on input line 4
+8.
+
+[1
+
+{C:/Users/LUIS/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<nodemcu-v3-esp8266.jpg, id=105, 602.25pt x 602.25pt>
+File: nodemcu-v3-esp8266.jpg Graphic file (type jpg)
+<use nodemcu-v3-esp8266.jpg>
+Package pdftex.def Info: nodemcu-v3-esp8266.jpg  used on input line 56.
+(pdftex.def)             Requested size: 180.67639pt x 180.67639pt.
+
+
+LaTeX Warning: Citation `boylestad2003electronica' on page 2 undefined on input
+ line 59.
+
+<8266.PNG, id=106, 450.483pt x 222.23026pt>
+File: 8266.PNG Graphic file (type png)
+<use 8266.PNG>
+Package pdftex.def Info: 8266.PNG  used on input line 62.
+(pdftex.def)             Requested size: 180.19pt x 88.89052pt.
+<ph1.jpg, id=108, 343.2825pt x 343.2825pt>
+File: ph1.jpg Graphic file (type jpg)
+<use ph1.jpg>
+Package pdftex.def Info: ph1.jpg  used on input line 71.
+(pdftex.def)             Requested size: 137.31056pt x 137.31056pt.
+
+LaTeX Warning: Citation `kemmerly1975analisis' on page 2 undefined on input lin
+e 76.
+
+<sen_temp.jpg, id=109, 344.78813pt x 344.78813pt>
+File: sen_temp.jpg Graphic file (type jpg)
+<use sen_temp.jpg>
+Package pdftex.def Info: sen_temp.jpg  used on input line 79.
+(pdftex.def)             Requested size: 137.9128pt x 137.9128pt.
+<TDS.jpg, id=110, 803.0pt x 803.0pt>
+File: TDS.jpg Graphic file (type jpg)
+<use TDS.jpg>
+Package pdftex.def Info: TDS.jpg  used on input line 86.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<TS-300B.jpg, id=111, 356.26056pt x 322.67029pt>
+File: TS-300B.jpg Graphic file (type jpg)
+<use TS-300B.jpg>
+Package pdftex.def Info: TS-300B.jpg  used on input line 93.
+(pdftex.def)             Requested size: 142.5017pt x 129.06581pt.
+[2 <./nodemcu-v3-esp8266.jpg> <./8266.PNG> <./ph1.jpg> <./sen_temp.jpg>]
+<tablaPH.PNG, id=121, 366.77025pt x 262.581pt>
+File: tablaPH.PNG Graphic file (type png)
+<use tablaPH.PNG>
+Package pdftex.def Info: tablaPH.PNG  used on input line 104.
+(pdftex.def)             Requested size: 183.38467pt x 131.29016pt.
+<calibradorPH.PNG, id=122, 486.618pt x 268.00125pt>
+File: calibradorPH.PNG Graphic file (type png)
+<use calibradorPH.PNG>
+Package pdftex.def Info: calibradorPH.PNG  used on input line 111.
+(pdftex.def)             Requested size: 194.64374pt x 107.1986pt.
+
+[3 <./TDS.jpg> <./TS-300B.jpg> <./tablaPH.PNG>]
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.s
+ty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.s
+ty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.st
+y"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+)
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 117.
+
+ ("C:\Users\LUIS\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) (PrograSensor/PH/PH.ino
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 7.
+)
+<Resultados/resPh.jpeg, id=131, 644.4075pt x 496.10344pt>
+File: Resultados/resPh.jpeg Graphic file (type jpg)
+<use Resultados/resPh.jpeg>
+Package pdftex.def Info: Resultados/resPh.jpeg  used on input line 122.
+(pdftex.def)             Requested size: 451.08218pt x 347.27003pt.
+ [4 <./calibradorPH.PNG>]
+<ebullision.jpg, id=175, 501.875pt x 235.88126pt>
+File: ebullision.jpg Graphic file (type jpg)
+<use ebullision.jpg>
+Package pdftex.def Info: ebullision.jpg  used on input line 130.
+(pdftex.def)             Requested size: 451.68332pt x 212.29117pt.
+ [5 <./Resultados/resPh.jpeg> <./ebullision.jpg>] (PrograSensor/Temperatura/Tem
+peratura.ino
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...println(temp+2.00); // Podemos tener más 
+                                                  de un sensor en el mismo b...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte 161.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...println(temp+2.00); // Podemos tener más 
+                                                  de un sensor en el mismo b...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+)
+<Resultados/resTemperatura.png, id=182, 769.37437pt x 423.83344pt>
+File: Resultados/resTemperatura.png Graphic file (type png)
+<use Resultados/resTemperatura.png>
+Package pdftex.def Info: Resultados/resTemperatura.png  used on input line 141.
+
+(pdftex.def)             Requested size: 384.68625pt x 211.91618pt.
+ [6]
+<turbidez.PNG, id=223, 614.295pt x 107.80275pt>
+File: turbidez.PNG Graphic file (type png)
+<use turbidez.PNG>
+Package pdftex.def Info: turbidez.PNG  used on input line 149.
+(pdftex.def)             Requested size: 307.14674pt x 53.90123pt.
+ (PrograSensor/Calidad/Calidad.ino [7 <./Resultados/resTemperatura.png> <./turb
+idez.PNG>])
+<Resultados/resTds.png, id=253, 756.57657pt x 439.6425pt>
+File: Resultados/resTds.png Graphic file (type png)
+<use Resultados/resTds.png>
+Package pdftex.def Info: Resultados/resTds.png  used on input line 160.
+(pdftex.def)             Requested size: 378.28735pt x 219.82071pt.
+<Turbidez.JPG, id=254, 750.55406pt x 326.72063pt>
+File: Turbidez.JPG Graphic file (type jpg)
+<use Turbidez.JPG>
+Package pdftex.def Info: Turbidez.JPG  used on input line 169.
+(pdftex.def)             Requested size: 300.21631pt x 130.68593pt.
+ [8 <./Resultados/resTds.png>]
+(PrograSensor/Turbidez/Turbidez.ino)
+<Resultados/resTurbidez.jpeg, id=281, 835.12pt x 665.48625pt>
+File: Resultados/resTurbidez.jpeg Graphic file (type jpg)
+<use Resultados/resTurbidez.jpeg>
+Package pdftex.def Info: Resultados/resTurbidez.jpeg  used on input line 180.
+(pdftex.def)             Requested size: 417.55898pt x 332.74231pt.
+ [9 <./Turbidez.JPG>]
+<anexo3.jpeg, id=311, 1284.8pt x 722.7pt>
+File: anexo3.jpeg Graphic file (type jpg)
+<use anexo3.jpeg>
+Package pdftex.def Info: anexo3.jpeg  used on input line 215.
+(pdftex.def)             Requested size: 154.16934pt x 86.72025pt.
+<anexo4.jpeg, id=312, 1284.8pt x 722.7pt>
+File: anexo4.jpeg Graphic file (type jpg)
+<use anexo4.jpeg>
+Package pdftex.def Info: anexo4.jpeg  used on input line 218.
+(pdftex.def)             Requested size: 154.16934pt x 86.72025pt.
+<anexo2.jpeg, id=313, 1284.8pt x 722.7pt>
+File: anexo2.jpeg Graphic file (type jpg)
+<use anexo2.jpeg>
+Package pdftex.def Info: anexo2.jpeg  used on input line 221.
+(pdftex.def)             Requested size: 154.16934pt x 86.72025pt.
+<anexo1.jpeg, id=314, 1284.8pt x 722.7pt>
+File: anexo1.jpeg Graphic file (type jpg)
+<use anexo1.jpeg>
+Package pdftex.def Info: anexo1.jpeg  used on input line 224.
+(pdftex.def)             Requested size: 154.16934pt x 86.72025pt.
+
+No file examen.bbl.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 232.
+[10 <./Resultados/resTurbidez.jpeg>] [11 <./anexo3.jpeg> <./anexo4.jpeg> <./ane
+xo2.jpeg> <./anexo1.jpeg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
+ (examen.aux
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 232.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 232.
+Package rerunfilecheck Info: File `examen.out' has not changed.
+(rerunfilecheck)             Checksum: 326A0580D26CAC1237B86082DA885B49;1651.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 232.
+ ) 
+Here is how much of TeX's memory you used:
+ 11094 strings out of 492970
+ 158668 string characters out of 3127037
+ 589129 words of memory out of 3000000
+ 14529 multiletter control sequences out of 15000+200000
+ 17444 words of font info for 65 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,8n,69p,1019b,2035s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/LUIS/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
+<C:/Users/LUIS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb><C:/Users/LUIS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Users/LUIS/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Users/LUIS/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/LUIS/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/LUIS/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/
+LUIS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb><C:/U
+sers/LUIS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb>
+
+Output written on examen.pdf (11 pages, 1779455 bytes).
+PDF statistics:
+ 398 PDF objects out of 1000 (max. 8388607)
+ 192 named destinations out of 1000 (max. 500000)
+ 280 words of extra memory for PDF output out of 10000 (max. 10000000)
+

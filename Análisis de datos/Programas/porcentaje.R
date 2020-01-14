@@ -1,0 +1,43 @@
+library(knitr)
+library(ROCR)
+library(e1071)
+library(caTools)
+library(nnet)
+library(scales)
+
+library(mlbench)
+library(caret)
+library(randomForest)
+#Cargara la base de datos al entorno de R
+datos=read.csv("datos.csv",header=TRUE,sep=",")
+library(caTools)
+set.seed(222)
+split=sample.split(datos$Label,SplitRatio = 0.80)
+training_set=subset(datos,split==TRUE)
+test_set=subset(datos,split==FALSE)
+training_set$ï..Turbidez=rescale(training_set$ï..Turbidez,to=c(0,1))
+training_set$Temperatura=rescale(training_set$Temperatura,to=c(0,1))
+training_set$TDS=rescale(training_set$TDS,to=c(0,1))
+training_set$PH=rescale(training_set$PH,to=c(0,1))
+test_set$ï..Turbidez=rescale(test_set$ï..Turbidez,to=c(0,1))
+test_set$Temperatura=rescale(test_set$Temperatura,to=c(0,1))
+test_set$TDS=rescale(test_set$TDS,to=c(0,1))
+test_set$PH=rescale(test_set$PH,to=c(0,1))
+training_set$Label=factor(training_set$Label,levels=c(1,2,3))
+test_set$Label=factor(test_set$Label,levels=c(1,2,3))
+library(Boruta)
+str(test_set)
+#Feature Selection
+borutaTem=Boruta(Label~ .,data=test_set,doTrace=2)
+borutaTem
+plot(borutaTem,las=2,cex.axis=0.7)
+plotImpHistory(borutaTem)
+bor=TentativeRoughFix(borutaTem)
+attStats(borutaTem)
+#RandomForest
+set.seed(420)
+rf60=randomForest(Label~ .,data=training_set)
+rf60
+#predicction 
+p=predict(rf60,test_set)
+confusionMatrix(p,test_set$Label)

@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introducci\363n}{}% 1
+\BOOKMARK [1][-]{section.2}{Marco Te\363rico}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Matriz de Confusi\363n}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Especificidad \(Especificity}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Sensibilidad o exhaustividad \(Sensitivity, Recall\)}{subsection.2.1}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Rendimiento de los algoritmos de clasificaci\363n}{subsection.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Curva ROC}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Medici\363n AUC}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Desarrollo}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Si se normaliza la base de datos que rendimiento tiene cada algortimo ?}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{\277Funciona la selecci\363n de prototipos?}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Porcentualmente que variable aporta mayor datos al clasificador?}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{Si se elimina la variable de menor importancia qu\351 sucede con el clasificador?}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Conclusiones y Recomendaciones}{}% 14
